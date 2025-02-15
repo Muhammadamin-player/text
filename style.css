@@ -1,0 +1,53 @@
+.h2 {
+    background-color: aqua;color: #000;
+    border-radius: 10px;
+    border: 1px solid red;
+    text-align: center;
+}
+
+span {
+    color: red;
+}
+
+.pip {
+    color: green; 
+}
+
+.picture{
+    background-color: yellow;color: green;
+    text-align: center;
+}
+
+center {
+    background-color: black;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    width: 15%;
+    background-color:rgb(70, 143, 222); color: white;
+    text-align: center;
+}
+
+.red {
+    background-color: red; color: white; 
+}
+
+.green2 {
+    background-color: green; color: white;
+}
+
+.blue2 {
+    background-color: blue;color: white;
+}
+
+.black {
+    background-color: black; color: white;
+}
+
+table {
+    width: 80%;
+}
